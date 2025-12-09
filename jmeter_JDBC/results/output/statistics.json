@@ -1,0 +1,50 @@
+{
+  "JDBC Request" : {
+    "transaction" : "JDBC Request",
+    "sampleCount" : 7674957,
+    "errorCount" : 179,
+    "errorPct" : 0.0023322606,
+    "meanResTime" : 1.1151749775274697,
+    "medianResTime" : 0.0,
+    "minResTime" : 0.0,
+    "maxResTime" : 161865.0,
+    "pct1ResTime" : 1.0,
+    "pct2ResTime" : 1.0,
+    "pct3ResTime" : 2.0,
+    "throughput" : 12791.65895829479,
+    "receivedKBytesPerSec" : 874.4298116021831,
+    "sentKBytesPerSec" : 0.0
+  },
+  "Total" : {
+    "transaction" : "Total",
+    "sampleCount" : 7674957,
+    "errorCount" : 179,
+    "errorPct" : 0.0023322606,
+    "meanResTime" : 1.1151749775274697,
+    "medianResTime" : 0.0,
+    "minResTime" : 0.0,
+    "maxResTime" : 161865.0,
+    "pct1ResTime" : 1.0,
+    "pct2ResTime" : 1.0,
+    "pct3ResTime" : 2.0,
+    "throughput" : 12791.65895829479,
+    "receivedKBytesPerSec" : 874.4298116021831,
+    "sentKBytesPerSec" : 0.0
+  },
+  "Transaction Controller" : {
+    "transaction" : "Transaction Controller",
+    "sampleCount" : 0,
+    "errorCount" : 0,
+    "errorPct" : "NaN",
+    "meanResTime" : "NaN",
+    "medianResTime" : "NaN",
+    "minResTime" : 9.223372036854776E18,
+    "maxResTime" : -9.223372036854776E18,
+    "pct1ResTime" : "NaN",
+    "pct2ResTime" : "NaN",
+    "pct3ResTime" : "NaN",
+    "throughput" : 0.0,
+    "receivedKBytesPerSec" : 0.0,
+    "sentKBytesPerSec" : 0.0
+  }
+}
